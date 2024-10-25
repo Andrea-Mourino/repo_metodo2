@@ -1,4 +1,4 @@
-### PRIMER PASO
+### PASOS PARA CLONAR UN REPOSITORIO EN GIT HUB
 1. Buscamos el repositorio de cualquier usuario que nos interese y le damos a CODE
 2. Copiamos el URL y vamos a la KONSOLA para poner "git clone" y pegamos el URL
 3. Para confirmar que lo tenemos ponemos cd
